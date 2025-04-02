@@ -6,4 +6,10 @@
         <Nullable>enable</Nullable>
     </PropertyGroup>
 
+    <ItemGroup>
+      <Reference Include="Sandbox.Mounting">
+        <HintPath>..\..\..\SteamLibrary\steamapps\common\sbox\bin\managed\Sandbox.Mounting.dll</HintPath>
+      </Reference>
+    </ItemGroup>
+
 </Project>
