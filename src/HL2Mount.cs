@@ -2,7 +2,7 @@
 
 namespace src;
 
-public class HL2Mount : BaseGameMount
+public class Hl2Mount : BaseGameMount
 {
     private string? Path { get; set; }
 
